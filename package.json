@@ -24,8 +24,8 @@
   },
   "devDependencies": {
     "@axe-core/playwright": "4.12.1",
-    "@playwright/test": "1.61.1",
-    "eslint": "10.7.0",
+    "@playwright/test": "1.62.0",
+    "eslint": "10.8.0",
     "prettier": "3.9.6",
     "vite": "8.1.5",
     "vitest": "4.1.10"
